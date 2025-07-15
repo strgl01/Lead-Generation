@@ -9,9 +9,9 @@ import time
 import pandas as pd
 from typing import Optional
 
-proxies=["45.127.248.127:5128",
-     "173.0.9.209:5792",
-     "166.88.58.10:5735"]
+proxies=["38.154.227.167:5868",
+     "92.113.242.158:6742",
+     "216.10.27.159:6837"]
 
 
 topics= ["roofing business USA",]
@@ -59,7 +59,7 @@ class Crawler:
                 }
         }
 
-        service = Service(geckodriver_path = r"C:/Users/dell/Desktop/geckodriver.exe")
+        service = Service(geckodriver_path = r"C:/Users/dell/Downloads/geckodriver.exe")
         options = Options()
         #options.add_argument('--proxy-server=socks5://127.0.0.1:9150')
         self.driver = webdriver.Firefox(service=service, options=options, seleniumwire_options=seleniumwire_options)
