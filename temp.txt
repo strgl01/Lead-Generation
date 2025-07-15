@@ -1,0 +1,8 @@
+Nv2PK tH5CWc THOPZb 
+
+result - "div.lI9IFe"
+company - "div.fontHeadlineSmall'
+rating - "span.MW4etd"
+website - "a.lcr4fd"
+open - "span:contains('Opens)"
+mobile - "span.UsdlK"
