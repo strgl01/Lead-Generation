@@ -8,3 +8,4 @@ Source Code Explanation <br>
 3. Meathod 'scroll_within_element' is used to scroll the portion of window where the details of business appears it handles of javascript generating the html code behind. <br>
 4. Code uses bs4 for extraction of required fields <br>
 
+Note: If code is giving error pleae check if proxies used are still working <br>
